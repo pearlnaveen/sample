@@ -1,0 +1,8 @@
+Title: Semi-automated Data cleaning and Data preprocessing Agent
+while developing an ML model data cleaning and preprocessing consumes huge amount of time (nearly 65-70%)
+This project aims to reduce the manual working of the process and making it semi-automating using ai models
+Existing solutions: 
+    Libraries like numpy & pandas have inbuild packages to simpliy the process but still high level of manual processing required and also time consuming
+    Some of them using rule-based approach to resolve this but still it was inefficient.
+Research Gap:
+    To make a intelligent system whick make decision on its own and reduce the manual processing and time.
