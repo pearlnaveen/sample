@@ -6,3 +6,4 @@ Existing solutions:
     Some of them using rule-based approach to resolve this but still it was inefficient.
 Research Gap:
     To make a intelligent system whick make decision on its own and reduce the manual processing and time.
+Product development and design idea
